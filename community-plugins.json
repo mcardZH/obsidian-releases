@@ -17890,5 +17890,12 @@
     "author": "Utkarsh Raj",
     "description": "Visualize notes as interactive mind maps",
     "repo": "linem-davton/obsidian-better-mindmap"
+  },
+  {
+    "id": "easy-reference",
+    "name": "Easy Reference",
+    "author": "mcardZH",
+    "description": "Use Pandoc format to reference figures, tables, and chapters in notes.",
+    "repo": "mcardZH/EasyReference"
   }
 ]
